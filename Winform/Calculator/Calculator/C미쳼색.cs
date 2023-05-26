@@ -26,5 +26,19 @@ namespace Calculator
         {
 
         }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void SumButton_Click(object sender, EventArgs e)
+        {
+            int sum1 = int.Parse(SumNum1.Text);
+            int sum2 = Convert.ToInt32(SumNum2.Text);
+
+            int sum = sum1 + sum2;
+            SumAnser.Text = sum.ToString();
+        }
     }
 }

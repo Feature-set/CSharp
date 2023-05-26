@@ -1,0 +1,10 @@
+C:\Users\SSH\Desktop\C#\CSharp\Winform\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\SSH\Desktop\C#\CSharp\Winform\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\SSH\Desktop\C#\CSharp\Winform\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\SSH\Desktop\C#\CSharp\Winform\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\SSH\Desktop\C#\CSharp\Winform\Calculator\Calculator\obj\Debug\Calculator.HelloLabel.resources
+C:\Users\SSH\Desktop\C#\CSharp\Winform\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\SSH\Desktop\C#\CSharp\Winform\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\SSH\Desktop\C#\CSharp\Winform\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\SSH\Desktop\C#\CSharp\Winform\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\SSH\Desktop\C#\CSharp\Winform\Calculator\Calculator\obj\Debug\Calculator.pdb
