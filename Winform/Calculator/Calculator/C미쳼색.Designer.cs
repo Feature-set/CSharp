@@ -35,11 +35,13 @@ namespace Calculator
             // ClickLabel
             // 
             this.ClickLabel.AutoSize = true;
+            this.ClickLabel.Cursor = System.Windows.Forms.Cursors.Hand;
             this.ClickLabel.Location = new System.Drawing.Point(79, 38);
             this.ClickLabel.Name = "ClickLabel";
             this.ClickLabel.Size = new System.Drawing.Size(59, 12);
             this.ClickLabel.TabIndex = 0;
             this.ClickLabel.Text = "ClickHere";
+            this.ClickLabel.CursorChanged += new System.EventHandler(this.label1_Click);
             this.ClickLabel.Click += new System.EventHandler(this.label1_Click);
             // 
             // HelloLabel
