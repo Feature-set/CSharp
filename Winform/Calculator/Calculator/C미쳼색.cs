@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace Calculator
 {
-    public partial class Form1 : Form
+    public partial class HelloLabel : Form
     {
-        public Form1()
+        public HelloLabel()
         {
             InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            ClickLabel.Text = "변경 됨";
+        }
+
+        private void HelloLabel_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

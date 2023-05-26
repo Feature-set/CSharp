@@ -1,7 +1,7 @@
 ﻿
 namespace Calculator
 {
-    partial class Form1
+    partial class HelloLabel
     {
         /// <summary>
         /// 필수 디자이너 변수입니다.
@@ -29,13 +29,37 @@ namespace Calculator
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.ClickLabel = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // ClickLabel
+            // 
+            this.ClickLabel.AutoSize = true;
+            this.ClickLabel.Location = new System.Drawing.Point(79, 38);
+            this.ClickLabel.Name = "ClickLabel";
+            this.ClickLabel.Size = new System.Drawing.Size(59, 12);
+            this.ClickLabel.TabIndex = 0;
+            this.ClickLabel.Text = "ClickHere";
+            this.ClickLabel.Click += new System.EventHandler(this.label1_Click);
+            // 
+            // HelloLabel
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.Controls.Add(this.ClickLabel);
+            this.Cursor = System.Windows.Forms.Cursors.SizeNS;
+            this.Name = "HelloLabel";
+            this.Text = "Calculator";
+            this.Load += new System.EventHandler(this.HelloLabel_Load);
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Label ClickLabel;
     }
 }
 
