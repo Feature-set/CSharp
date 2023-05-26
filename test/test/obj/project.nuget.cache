@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xcWPp4Ejaa6zExx2CpLZfFVYb9FjjSc88ZNmEh+knZ4eAvnc9uVREOJ1EUElGEP9ROS0dmUs1tsTgr9Qxk/k5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SSH\\Desktop\\C#\\CSharp\\test\\test\\test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SSH\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\SSH\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\SSH\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\SSH\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
