@@ -1,0 +1,8 @@
+E:\UnityProject\CSharp\DataStructure\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+E:\UnityProject\CSharp\DataStructure\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+E:\UnityProject\CSharp\DataStructure\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+E:\UnityProject\CSharp\DataStructure\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.AssemblyReference.cache
+E:\UnityProject\CSharp\DataStructure\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.SuggestedBindingRedirects.cache
+E:\UnityProject\CSharp\DataStructure\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+E:\UnityProject\CSharp\DataStructure\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+E:\UnityProject\CSharp\DataStructure\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb
