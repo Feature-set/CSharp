@@ -1,0 +1,7 @@
+C:\Users\SSH\Desktop\C#\CSharp\DataStructure\Recursion_재귀\Recursion\Recursion\bin\Debug\Recursion.exe.config
+C:\Users\SSH\Desktop\C#\CSharp\DataStructure\Recursion_재귀\Recursion\Recursion\bin\Debug\Recursion.exe
+C:\Users\SSH\Desktop\C#\CSharp\DataStructure\Recursion_재귀\Recursion\Recursion\bin\Debug\Recursion.pdb
+C:\Users\SSH\Desktop\C#\CSharp\DataStructure\Recursion_재귀\Recursion\Recursion\obj\Debug\Recursion.csproj.AssemblyReference.cache
+C:\Users\SSH\Desktop\C#\CSharp\DataStructure\Recursion_재귀\Recursion\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\SSH\Desktop\C#\CSharp\DataStructure\Recursion_재귀\Recursion\Recursion\obj\Debug\Recursion.exe
+C:\Users\SSH\Desktop\C#\CSharp\DataStructure\Recursion_재귀\Recursion\Recursion\obj\Debug\Recursion.pdb
